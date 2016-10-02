@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.IO;
+using System.Diagnostics;
 
 namespace Textbook_Instant_Access
 {
@@ -28,7 +29,7 @@ namespace Textbook_Instant_Access
             string selectItem = quickAccessBox.SelectedItem.ToString();
             if (selectItem != "")
             {
-                File.Open(selectItem, FileMode.Open);
+                Process.Start(selectItem);
             }
             else
             {
@@ -41,7 +42,9 @@ namespace Textbook_Instant_Access
             var fileDialog = new OpenFileDialog();
             fileDialog.ShowDialog();
             String path = fileDialog.FileName;
-            MessageBox.Show(path);
+            addTextBox.Text = path;
+            fileDialog.Dispose();
+
         }
     }
 }
