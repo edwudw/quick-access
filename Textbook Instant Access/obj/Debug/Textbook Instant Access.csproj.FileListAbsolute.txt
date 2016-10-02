@@ -1,1 +1,9 @@
 c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\Debug\Textbook Instant Access.exe.config
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook Instant Access.csprojResolveAssemblyReference.cache
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook_Instant_Access.Form1.resources
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook_Instant_Access.Properties.Resources.resources
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook Instant Access.csproj.GenerateResource.Cache
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\Debug\Textbook Instant Access.exe
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\Debug\Textbook Instant Access.pdb
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook Instant Access.exe
+c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook Instant Access.pdb
