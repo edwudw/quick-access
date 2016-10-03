@@ -17,11 +17,13 @@ namespace Textbook_Instant_Access
         public Form1()
         {
             InitializeComponent();
+            
         }
 
         private void addButton_Click(object sender, EventArgs e)
         {
             quickAccessBox.Items.Add(addTextBox.Text);
+            
         }
 
         private void quickAccessBox_doubleClick(object sender, EventArgs e)
@@ -44,7 +46,19 @@ namespace Textbook_Instant_Access
             String path = fileDialog.FileName;
             addTextBox.Text = path;
             fileDialog.Dispose();
+            
+            
+        }
+        private void formLoaded(object sender, EventArgs e)
+        {
+            // Read saved entries from database
+        }
 
+        private void removeButton_Click(object sender, EventArgs e)
+        {
+            string selected = quickAccessBox.SelectedItem.ToString();
+            quickAccessBox.Items.Remove(quickAccessBox.SelectedItem);
+           
         }
     }
 }
