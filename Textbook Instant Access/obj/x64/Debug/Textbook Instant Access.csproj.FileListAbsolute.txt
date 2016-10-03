@@ -1,0 +1,10 @@
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\x64\Debug\Textbook Instant Access.exe.config
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\x64\Debug\Textbook Instant Access.exe
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\x64\Debug\Textbook Instant Access.pdb
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\x64\Debug\System.Data.SQLite.dll
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\x64\Debug\System.Data.SQLite.pdb
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\x64\Debug\Textbook_Instant_Access.Form1.resources
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\x64\Debug\Textbook_Instant_Access.Properties.Resources.resources
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\x64\Debug\Textbook Instant Access.csproj.GenerateResource.Cache
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\x64\Debug\Textbook Instant Access.exe
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\x64\Debug\Textbook Instant Access.pdb

@@ -7,3 +7,5 @@ c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Te
 c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\Debug\Textbook Instant Access.pdb
 c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook Instant Access.exe
 c:\users\edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\obj\Debug\Textbook Instant Access.pdb
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\Debug\System.Data.SQLite.dll
+C:\Users\Edward\documents\visual studio 2015\Projects\Textbook Instant Access\Textbook Instant Access\bin\Debug\System.Data.SQLite.pdb
